@@ -1,0 +1,6 @@
+pandas
+numpy
+matplotlip
+seaborn
+sklearn
+arff
