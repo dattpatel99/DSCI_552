@@ -1,1 +1,10 @@
-Please install the requirements using "pip install -r requirements.txt"
+# Random Forest And XGBoost Model Trees
+
+URL: https://archive.ics.uci.edu/dataset/421/aps+failure+at+scania+trucks
+
+1. Source - Michael Redmond
+
+2. Introduction:
+The dataset consists of data collected from heavy Scania trucks in everyday usage. The system in focus is the Air Pressure system (APS) which generates pressurised air that are utilized in various functions in a truck, such as braking and gear changes. The datasets' positive class consists of component failures for a specific component of the APS system. The negative class consists of trucks with failures for components not related to the APS. The data consists of a subset of all available data, selected by experts. 
+
+3. Citation - APS Failure at Scania Trucks. (2017). UCI Machine Learning Repository. https://doi.org/10.24432/C51S51.
